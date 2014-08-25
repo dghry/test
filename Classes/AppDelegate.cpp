@@ -9,6 +9,7 @@ AppDelegate::AppDelegate() {
 
 AppDelegate::~AppDelegate() 
 {
+doubidoubidoubi
 }
 
 bool AppDelegate::applicationDidFinishLaunching() {
